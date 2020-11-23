@@ -1,0 +1,6 @@
+input.ng-invalid { border: red 2px solid; background: yellow; }
+
+div strong { color: red; }
+
+input ~ div { margin-top: 10px; }
+/* input + div { margin-top: 10px; } */
